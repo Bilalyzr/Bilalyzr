@@ -99,19 +99,31 @@
 ## 🏆 GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Bilalyzr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Bilalyzr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <a href="https://github.com/Bilalyzr">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilalyzr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <a href="https://github.com/Bilalyzr">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilalyzr&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&layout=compact" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <br/>
-  <br/>
+
   <a href="https://github.com/Bilalyzr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilalyzr&show_icons=true&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Bilalyzr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilalyzr&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/Bilalyzr">
-    <img src="https://streak-stats.demolab.com/?user=Bilalyzr&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub Streak" width="80%" />
+    <img src="https://streak-stats.demolab.com/?user=Bilalyzr&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
