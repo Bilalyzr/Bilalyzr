@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammed%20Bilal%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1A1B26,7AA2F7,BB9AF7&text=Mohammed%20Bilal%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Developer&descSize=18&descAlignY=55&textBg=false&fontFamily=monospace"/>
 
   <a href="https://komarev.com/ghpvc/?username=Bilalyzr">
     <img src="https://komarev.com/ghpvc/?username=Bilalyzr&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="Bilalyzr's profile views" />
