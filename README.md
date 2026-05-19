@@ -30,18 +30,18 @@
       <h3>👨‍💻 Who I Am</h3>
       <p>I am an <b>Aspiring Full-Stack Developer</b> with a profound passion for building scalable, cloud-native web applications. My journey is fueled by a desire to innovate, whether I'm crafting modern User Interfaces or optimizing backend architectures.</p>
       <ul>
-        <li>🚀 <b>Core Stack:</b> React.js, Node.js, Next.js, Firebase</li>
-        <li>🔭 <b>Currently Exploring:</b> Android Malware Detection & Modern LMS Integrations</li>
-        <li>🎯 <b>Goals:</b> To build enterprise-grade platforms</li>
+        <li>⬩➤ <b>Core Stack:</b> React.js, Node.js, Next.js, Firebase</li>
+        <li>⬩➤ <b>Currently Exploring:</b> Android Malware Detection & Modern LMS Integrations</li>
+        <li>⬩➤ <b>Goals:</b> To build enterprise-grade platforms</li>
       </ul>
     </td>
     <td width="40%">
       <h3>🧠 My Focus Areas</h3>
       <ul>
-        <li>🌐 <b>Full-Stack Web Dev</b></li>
-        <li>🤖 <b>AI/Machine Learning</b></li>
-        <li>☁️ <b>Cloud Architecture</b></li>
-        <li>🛡️ <b>Cybersecurity</b></li>
+        <li>⬩➤ <b>Full-Stack Web Dev</b></li>
+        <li>⬩➤ <b>AI/Machine Learning</b></li>
+        <li>⬩➤ <b>Cloud Architecture</b></li>
+        <li>⬩➤ <b>Cybersecurity</b></li>
       </ul>
     </td>
   </tr>
@@ -124,7 +124,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>💠 Nexora</h3>
+        <h3>🗺 Nexora</h3>
         <p>Premium Industrial Platform</p>
         <a href="https://github.com/Bilalyzr"><img src="https://img.shields.io/badge/View_Project-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Nexora"/></a>
       </td>
