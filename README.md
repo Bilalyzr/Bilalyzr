@@ -1,7 +1,8 @@
 <div align="center">
   <img align="right" src="https://media.tenor.com/Wp2bBv_M6eAAAAAi/spiderman-swing.gif" width="100" alt="Spider-Man" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1A1B26,7AA2F7,BB9AF7&text=Mohammed%20Bilal%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Developer&descSize=18&descAlignY=55&textBg=false&fontFamily=monospace"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Mohammed%20Bilal%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Developer&descSize=18&descAlignY=55&textBg=false&fontFamily=monospace"/>
   
+
   <br/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Simplicity%20scales%20best.;Transforming%20ideas%20into%20scalable%20solutions.;Aspiring%20Full-Stack%20Developer." alt="Typing introduction" />
