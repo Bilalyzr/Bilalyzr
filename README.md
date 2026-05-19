@@ -163,8 +163,4 @@
   <a href="mailto:althafbilal1968@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
   <a href="https://bilalyzr.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=About.me&logoColor=7AA2F7" alt="Portfolio"/></a>
   <br/>
-  <br/>
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
-  </a>
 </div>
